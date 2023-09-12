@@ -33,3 +33,8 @@ KIELER's [SoftwareProjectViz](https://github.com/kieler/SoftwareProjectViz) is a
 
 
 You can find further information and documentation for the different projects in the wikis of the respective repositories.
+
+***
+
+![kieler_logo](https://github.com/kieler/.github/assets/25612037/9d78fcc0-d901-4a43-a8f0-eb243aab2354)
+
