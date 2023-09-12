@@ -11,16 +11,16 @@ The pragmatics of model-based system design aims to improve comprehensibility of
 
 * **Layout**\
 Automatic graph layout is a key enabler for pragmatics-aware modeling, and therefore one of the major research topics.
-The [ELK](https://github.com/eclipse/elk) layout framework is hosted under the Eclipse Foundation but part of the KIELER initiative and actively developed by the KIELER team.
+The [ELK](https://github.com/eclipse/elk) layout framework is hosted under the Eclipse Foundation but is part of the KIELER initiative and actively developed by the KIELER team.
 The [JavaScript port of ELK](https://github.com/kieler/elkjs), however, can be found here under the KIELER organization.
 
 * **Diagrams**\
-The idea of modeling pragmatics is closely linked diagrams.
+The idea of modeling pragmatics is closely linked to diagrams.
 The [KLighD](https://github.com/kieler/KLighD) framework provides quick and lightweight diagram synthesis support, transient view management, and dynamic browsing.
 
 * **Semantics**\
 The [semantics](https://github.com/kieler/semantics) part of KIELER focuses in researches in the area of modeling languages for embedded and safety-critical systems, especially synchronous languages, in combination with pragmatics-aware modeling techniques.
-[Sequentially Constructive Charts (SCCharts)](https://github.com/kieler/semantics/wiki/home) are an synchronous state chart dialect with sequentially constructive semantics.
+[Sequentially Constructive Charts (SCCharts)](https://github.com/kieler/semantics/wiki/home) are a synchronous state chart dialect with sequentially constructive semantics.
 The KIELER tooling spans from editing to compilation, all using a model-based approach and on-the-fly visualization.
 
 * **Process analysis**\
