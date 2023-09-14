@@ -19,7 +19,7 @@ The idea of modeling pragmatics is closely linked to diagrams.
 The [KLighD](https://github.com/kieler/KLighD) framework provides quick and lightweight diagram synthesis support, transient view management, and dynamic browsing.
 
 * **Semantics**\
-The [semantics](https://github.com/kieler/semantics) part of KIELER focuses in researches in the area of modeling languages for embedded and safety-critical systems, especially synchronous languages, in combination with pragmatics-aware modeling techniques.
+The [semantics](https://github.com/kieler/semantics) part of KIELER focuses on research in the area of modeling languages for embedded and safety-critical systems, especially synchronous languages, in combination with pragmatics-aware modeling techniques.
 [Sequentially Constructive Charts (SCCharts)](https://github.com/kieler/semantics/wiki/home) are a synchronous state chart dialect with sequentially constructive semantics.
 The KIELER tooling spans from editing to compilation, all using a model-based approach and on-the-fly visualization.
 
