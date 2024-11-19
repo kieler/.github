@@ -25,7 +25,7 @@ The KIELER tooling spans from editing to compilation, all using a model-based ap
 
 * **Process analysis**\
 Safety analyses are a crucial part of proving safe software systems.
-The KIELER [PASTA](https://github.com/kieler/stpa) tool combines the Systems Theoretic Process Analysis (STPA) approach with pragmatics-aware modeling and visualization techniques.
+The KIELER [PASTA](https://github.com/kieler/pasta) tool combines the Systems Theoretic Process Analysis (STPA) approach with pragmatics-aware modeling and visualization techniques.
 
 * **Software project Visualization**\
 Pragmatics-aware visualizations can aid in understanding complex structures, such as large software systems.
