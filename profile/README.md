@@ -3,7 +3,7 @@
 KIELER is a research project about enhancing the graphical model-based design of complex software systems.
 It is developed by the [Real-Time and Embedded Systems group](http://www.rtsys.informatik.uni-kiel.de/) at [Kiel University](http://www.uni-kiel.de/).
 
-The KIELER name was initially an acronym for _Kiel Integrated Environment for Layout Eclipse Rich Client_ but the project is no longer aimed at the [Eclipse platform](https://www.eclipse.org/ide/) specifically, as many projects under this umbrella are available as standalone tools, Java and JavaScript libraries, and VS Code extensions.
+The KIELER name was initially an acronym for _Kiel Integrated Environment for Layout Eclipse Rich Client_ but the project is no longer aimed at the [Eclipse platform](https://www.eclipse.org/ide/) specifically, as many projects under this umbrella are available as standalone tools, Java and JavaScript libraries, and [VS Code extensions](https://marketplace.visualstudio.com/publishers/kieler).
 All KIELER projects have in common that they provide or utilize [pragmatics-aware modeling](https://rtsys.informatik.uni-kiel.de/~biblio/downloads/papers/isola22.pdf) concepts and technologies.
 The pragmatics of model-based system design aims to improve comprehensibility of diagrams, improve development and maintenance time, and improve the analysis of dynamic behavior.
 
@@ -23,11 +23,11 @@ The [semantics](https://github.com/kieler/semantics) part of KIELER focuses on r
 [Sequentially Constructive Charts (SCCharts)](https://github.com/kieler/semantics/wiki/home) are a synchronous state chart dialect with sequentially constructive semantics.
 The KIELER tooling spans from editing to compilation, all using a model-based approach and on-the-fly visualization.
 
-* **Process analysis**\
+* **Risk analysis**\
 Safety analyses are a crucial part of proving safe software systems.
 The KIELER [PASTA](https://github.com/kieler/pasta) tool combines the Systems Theoretic Process Analysis (STPA) approach with pragmatics-aware modeling and visualization techniques.
 
-* **Software project Visualization**\
+* **Software project visualization**\
 Pragmatics-aware visualizations can aid in understanding complex structures, such as large software systems.
 KIELER's [SoftwareProjectViz](https://github.com/kieler/SoftwareProjectViz) is a visualization generator for arbitrary (software) projects, enabling the interactive exploration and documentation of project structures based on diagrams.
 
